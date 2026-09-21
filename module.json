@@ -15,10 +15,10 @@
 		}
 	],
 	"esmodules": ["js/main.js"],
-	"url": "https://github.com/Terrox/foundryvtt-routinglib",
-	"download": "https://github.com/Terrox/foundryvtt-routinglib/releases/download/develop/routinglib-1-1-1.zip",
-	"manifest": "https://raw.githubusercontent.com/Terrox/foundryvtt-routinglib/master/module.json",
-	"readme": "https://github.com/manuelVo/foundryvtt-routinglib/blob/master/README.md",
-	"changelog": "https://github.com/Terrox/foundryvtt-routinglib/blob/develop/CHANGELOG.md",
-	"bugs": "https://github.com/manuelVo/foundryvtt-routinglib/issues"
+	"url": "https://github.com/IronWarjack/foundryvtt-routinglib",
+	"download": "https://github.com/IronWarjack/foundryvtt-routinglib/releases/download/1.1.3/routinglib-1.1.3.zip",
+	"manifest": "https://raw.githubusercontent.com/IronWarjack/foundryvtt-routinglib/develop/module.json",
+	"readme": "https://github.com/IronWarjack/foundryvtt-routinglib/blob/develop/README.md",
+	"changelog": "https://github.com/IronWarjack/foundryvtt-routinglib/blob/develop/CHANGELOG.md",
+	"bugs": "https://github.com/IronWarjack/foundryvtt-routinglib/issues"
 }
