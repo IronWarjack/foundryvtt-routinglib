@@ -1,3 +1,13 @@
+## 1.1.4
+### Compatibility
+- Verified compatibility with Foundry VTT v14.
+- Tested with Rideable under Foundry VTT v14 with no RoutingLib-related errors observed.
+
+### Maintenance
+- Established a maintained fork and reproducible release build process.
+- Updated project, manifest, download, documentation, and issue-tracker URLs to the maintained repository.
+- No intentional changes to pathfinding behavior.
+
 ## 1.1.0
 ### Performance
 - Increased the speed of the gridless pathfinder (thanks to MavethGH for suggesting this improved algorithm!)
